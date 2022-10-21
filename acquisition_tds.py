@@ -5,7 +5,7 @@
 """
 Created on Fri Sep 14 17:43:04 2018
 
-@author: laboratorio
+@author: Eduardo Moreno Barbosa
 """
 
 import visa
